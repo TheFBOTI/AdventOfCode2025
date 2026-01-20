@@ -1,2 +1,2 @@
 # AdventOfCode2025
-Advent of Code challenges and my solutions.
+Advent of Code challenges and my solutions; with placeholder template boiler plates..
